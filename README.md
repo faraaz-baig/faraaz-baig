@@ -1,34 +1,73 @@
-<h1 align="center">Hi <a href="https://www.faraazbaig.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></a>, I'm Faraaz Baig</h1>
-<h3 align="center">19 | Full Stack Developer| Entrepreneur | Podcast host at Impact Act | Self Taught Programmer | Cook | Trekking</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Faraaz</h1>
+<h3 align="center">Teenage Tech Entrepreneur form Bangalore</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraaz-baig&theme=onedark&margin-w=15&margin-h=15&column=7" alt="faraaz-baig" /></a> </p>
 
-<div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=faraaz-baig&count_private=true&include_all_commits=true&theme=onedark" alt="faraaz-baig" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz-baig&layout=compact&theme=onedark&langs_count=15" />
-</div>
+## 🙋‍♂️ About Me
 
-### Spotify Playing 🎧
-[![Spotify](https://spotify-faraaz-baig.vercel.app/api/spotify)](https://open.spotify.com/user/o8hr9f6lbbjrpm6xp0tclspv0)
+- 🔭 I’m currently working on **[The Open Drone](https://theopendrone.com)**
+
+- 🌱 I’m currently learning **Rocket.rs and Elixir.**
+
+- 👯 I’m looking to collaborate on **Projects that can eventually turn into startups**
+
+- 👨‍💻 I write blogs on **[My Website](https://faraazbaig.com/blog)**
+
+- 📫 How to reach me **me@faraazbaig.com**
+
+- ⚡ Fun fact **I play league of legends and love going on treks, biking tours and adventure trips**
+
+## 🚀 Languages:
+
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/> </a>
+    <a href="https://www.rust-lang.org" target="_blank"> <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="40" height="40"/> </a>
+  <a href="https://www.haskell.org" target="_blank"><img src="https://img.icons8.com/officel/80/000000/haskell.png" width="40" height="40"/> </a>
+  <a href="https://www.tutorialspoint.com/unix/shell_scripting.htm" target="_blank"> <img src="https://img.icons8.com/office/80/000000/console.png" width="40" height="40"/></a>
+  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/swift.png" width="40" height="40"/> </a>
+    
+</p>
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faraaz-baig&label=Profile%20views&color=0e75b6&style=flat" alt="faraaz-baig" /> </p>
-
-- 🔭 I’m currently working on [Rocket.rs](https://www.rust-lang.org) and [Elixir](https://elixir-lang.org/)
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Coding Design](https://faraazbaig.com/coding-design)
-- [Reading Tip I learnt from Bret Viktor](https://faraazbaig.com/reading-tip)
-- [Why I Ditched All Major JS Frameworks and Choose Vue](https://faraazbaig.com/why-i-choose-to-marry-vue)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/faraazbaig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="faraazbaig" height="30" width="40" /></a>
-<a href="https://www.instagram.com/faraazofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="faraazbaig" height="30" width="40" /></a>
-  <a href="https://www.twitter.com/faraazofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="faraazbaig" height="30" width="40" /></a>
-  <a href="https://anchor.fm/impactact" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/anchor.svg" alt="faraazbaig" height="30" width="40" /></a>
-  
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+</a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
