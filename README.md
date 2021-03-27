@@ -8,6 +8,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz-baig&layout=compact&theme=onedark&langs_count=15" />
 </div>
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraaz-baig&label=Profile%20views&color=0e75b6&style=flat" alt="faraaz-baig" /> </p>
