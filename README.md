@@ -16,6 +16,13 @@
 
 - ⚡ Fun fact **I play league of legends and love going on treks, biking tours and adventure trips**
 
+<br/>
+
+## Spotify Playing 🎧
+[![Spotify](https://spotify-faraaz-baig.vercel.app/api/spotify)](https://open.spotify.com/user/o8hr9f6lbbjrpm6xp0tclspv0)
+
+<br/>
+
 ## 🚀 Languages:
 
 <p align="left">
@@ -38,6 +45,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faraaz-baig&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<br/>
 
 ## 📊 My Github Stats
 
