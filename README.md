@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faraaz Baig</h1>
-<h3 align="center">An entrepreneur who codes.</h3>
+<h3 align="center">19 | Full Stack Developer| Entrepreneur | Podcast host at Impact Act | Self Taught Programmer | Cook | Trekking
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraaz-baig&label=Profile%20views&color=0e75b6&style=flat" alt="faraaz-baig" /> </p>
 
