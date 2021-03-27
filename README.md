@@ -7,6 +7,7 @@
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=faraaz-baig&count_private=true&include_all_commits=true&theme=onedark" alt="faraaz-baig" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz-baig&layout=compact&theme=onedark&langs_count=15" />
 </div>
+
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-faraaz-baig.vercel.app/api/spotify)](https://open.spotify.com/user/o8hr9f6lbbjrpm6xp0tclspv0)
 
