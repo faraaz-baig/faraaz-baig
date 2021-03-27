@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faraaz Baig</h1>
 <h3 align="center">19 | Full Stack Developer| Entrepreneur | Podcast host at Impact Act | Self Taught Programmer | Cook | Trekking</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willdoescode&theme=onedark&margin-w=15&margin-h=15&column=7" alt="willdoescode" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraaz-baig&theme=onedark&margin-w=15&margin-h=15&column=7" alt="faraaz-baig" /></a> </p>
 
 <div>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=faraaz-baig&count_private=true&include_all_commits=true&theme=onedark" alt="faraaz-baig" />
@@ -23,11 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="willdoescode" height="30" width="40" /></a>
-<a href="https://dev.to/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="willdoescode" height="30" width="40" /></a>
-<a href="https://twitter.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="willdoescode" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/will-iam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="will-iam" height="30" width="40" /></a>
-<a href="https://codesandbox.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="willdoescode" height="30" width="40" /></a>
-<a href="https://instagram.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="willdoescode" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="willdoescode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faraazbaig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="faraazbaig" height="30" width="40" /></a>
+<a href="https://www.instagram.com/faraazofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="faraazbaig" height="30" width="40" /></a>
+  <a href="https://www.twitter.com/faraazofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="faraazbaig" height="30" width="40" /></a>
+  <a href="https://anchor.fm/impactact" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/anchor.svg" alt="faraazbaig" height="30" width="40" /></a>
+  
 </p>
