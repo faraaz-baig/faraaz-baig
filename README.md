@@ -8,9 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz-baig&layout=compact&theme=onedark&langs_count=15" />
 </div>
 
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-faraaz-baig.vercel.app" alt="Faraaz Spotify Playing" width="350" />](https://open.spotify.com/user/o8hr9f6lbbjrpm6xp0tclspv0)
+[![Spotify](https://spotify-faraaz-baig.vercel.app/api/spotify)](https://open.spotify.com/user/o8hr9f6lbbjrpm6xp0tclspv0)
 
 <br/>
 
