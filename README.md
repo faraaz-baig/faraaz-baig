@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-faraaz-baig.vercel.app" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/o8hr9f6lbbjrpm6xp0tclspv0)
+[<img src="https://novatorem-faraaz-baig.vercel.app" alt="Faraaz Spotify Playing" width="350" />](https://open.spotify.com/user/o8hr9f6lbbjrpm6xp0tclspv0)
 
 <br/>
 
