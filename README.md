@@ -1,4 +1,4 @@
-<h1 align="center">Hi<a href="https://www.faraazbaig.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Faraaz Baig</h1>
+<h1 align="center">Hi <a href="https://www.faraazbaig.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Faraaz Baig</h1>
 <h3 align="center">19 | Full Stack Developer| Entrepreneur | Podcast host at Impact Act | Self Taught Programmer | Cook | Trekking</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraaz-baig&theme=onedark&margin-w=15&margin-h=15&column=7" alt="faraaz-baig" /></a> </p>
