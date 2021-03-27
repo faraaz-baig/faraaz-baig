@@ -10,14 +10,15 @@
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=willdoescode&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faraaz-baig&label=Profile%20views&color=0e75b6&style=flat" alt="faraaz-baig" /> </p>
 
-- 🔭 I’m currently working on [Zig](https://ziglang.org/) and [Elixir](https://elixir-lang.org/)
+- 🔭 I’m currently working on [Rocket.rs](https://www.rust-lang.org) and [Elixir](https://elixir-lang.org/)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Effective Interfaces In Golang](https://dev.to/willdoescode/effective-interfaces-in-golang-3l3n)
-- [How to operator overload in Rust.](https://dev.to/willdoescode/how-to-operator-overload-in-rust-33cp)
+- [Coding Design](https://faraazbaig.com/coding-design)
+- [Reading Tip I learnt from Bret Viktor](https://faraazbaig.com/reading-tip)
+- [Why I Ditched All Major JS Frameworks and Choose Vue](https://faraazbaig.com/why-i-choose-to-marry-vue)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
