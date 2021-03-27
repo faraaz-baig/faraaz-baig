@@ -18,7 +18,7 @@
 
 <br/>
 
-## Spotify Playing 🎧
+## I'm Currently Listing 🎧
 [![Spotify](https://spotify-faraaz-baig.vercel.app/api/spotify)](https://open.spotify.com/user/o8hr9f6lbbjrpm6xp0tclspv0)
 
 <br/>
