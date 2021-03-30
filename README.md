@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Faraaz</h1>
-<h3 align="center">Teenage Tech Entrepreneur form Bangalore</h3>
+<h3 align="center">Teenage Tech Entrepreneur based in Bangalore</h3>
 
 
 ## 🙋‍♂️ About Me
