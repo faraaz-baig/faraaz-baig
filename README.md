@@ -12,7 +12,7 @@
 
 - 👨‍💻 I write blogs on **[My Website](https://faraazbaig.com/blog)**
 
-- 📫 How to reach me **me@faraazbaig.com**
+- 📫 How to reach me **faraazbaig@pm.me**
 
 - ⚡ Fun fact **I play league of legends and love going on treks, biking tours and adventure trips**
 
