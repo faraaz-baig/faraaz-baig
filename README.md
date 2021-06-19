@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[The Open Drone](https://theopendrone.com)**
 
-- 🌱 I’m currently learning **Rocket.rs and Elixir.**
+- 🌱 I’m currently learning **Rocket.rs and Actix.**
 
 - 👯 I’m looking to collaborate on **Projects that can eventually turn into startups**
 
