@@ -4,11 +4,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[The Open Drone](https://theopendrone.com)**
+- 🔭 I’m currently working on **[Airbound](https://airbound.co)**
 
 - 🌱 I’m currently learning **Rocket.rs and Actix.**
 
-- 👯 I’m looking to collaborate on **Projects that can eventually turn into startups**
+- 👯 I’m looking to collaborate on **Projects that make the world a better place then it is**
 
 - 👨‍💻 I write blogs on **[My Website](https://faraazbaig.com/blog)**
 
