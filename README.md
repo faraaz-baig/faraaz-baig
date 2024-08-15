@@ -4,37 +4,20 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Airbound](https://airbound.co)**
+I'm a polymath and a generalist living in Bangalore, IN. I co-founded Airbound (a drone delivery company backed by Lightspeed VP).
 
-- 🌱 I’m currently learning **Rocket.rs and Actix.**
+I was part of the founding team behind pixa.ai, unscan.ai and more. I don't work on any of those projects anymore. I was CEO for ~4 years, COO for ~2 years. 
 
-- 👯 I’m looking to collaborate on **Projects that make the world a better place then it is**
-
-- 👨‍💻 I write blogs on **[My Website](https://faraazbaig.com/blog)**
-
-- 📫 How to reach me **faraazbaig@pm.me**
-
-- ⚡ Fun fact **I play league of legends and love going on treks, biking tours and adventure trips**
-
-<br/>
-
-## 🎧 I'm Currently Listening
-[![Spotify](https://spotify-faraaz-baig.vercel.app/api/spotify)](https://open.spotify.com/user/o8hr9f6lbbjrpm6xp0tclspv0)
-
-<br/>
 
 ## 🚀 Languages:
 
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/> </a>
     <a href="https://www.rust-lang.org" target="_blank"> <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="40" height="40"/> </a>
   <a href="https://www.haskell.org" target="_blank"><img src="https://img.icons8.com/officel/80/000000/haskell.png" width="40" height="40"/> </a>
   <a href="https://www.tutorialspoint.com/unix/shell_scripting.htm" target="_blank"> <img src="https://img.icons8.com/office/80/000000/console.png" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/swift.png" width="40" height="40"/> </a>
+  
     
 </p>
 
@@ -71,7 +54,6 @@
 <a href = "https://www.linkedin.com/in/faraazbaig/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/faraazofficial"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/faraazofficial/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://open.spotify.com/show/1LPc8iYsIjlPdlqlZ351mt"><img src="https://img.icons8.com/fluent/48/000000/spotify.png"/></a>
 
 </p>
 
