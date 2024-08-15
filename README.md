@@ -8,19 +8,6 @@ I'm a polymath and a generalist living in Bangalore, IN. I co-founded Airbound (
 
 I was part of the founding team behind pixa.ai, unscan.ai and more. I don't work on any of those projects anymore. I was CEO for ~4 years, COO for ~2 years. 
 
-
-## 🚀 Languages:
-
-<p align="left">
-    <a href="https://www.rust-lang.org" target="_blank"> <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40"/> </a>
-  <a href="https://www.haskell.org" target="_blank"><img src="https://img.icons8.com/officel/80/000000/haskell.png" width="40" height="40"/> </a>
-  <a href="https://www.tutorialspoint.com/unix/shell_scripting.htm" target="_blank"> <img src="https://img.icons8.com/office/80/000000/console.png" width="40" height="40"/></a>
-  
-    
-</p>
-
 <br/>
 
 <p align="center">
