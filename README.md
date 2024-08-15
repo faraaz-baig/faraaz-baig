@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Faraaz</h1>
-<h3 align="center">Teenage Tech Entrepreneur based in Bangalore</h3>
+<h1 align="center">Hi! I'm Faraaz</h1>
+<h3 align="center">Tech Generalist based in Bangalore</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -30,22 +30,6 @@ I was part of the founding team behind pixa.ai, unscan.ai and more. I don't work
 </p>
 
 <br/>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/faraaz-baig/github-readme-stats"><img alt="Faraaz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faraaz-baig&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/faraaz-baig/github-readme-stats"><img alt="Faraaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz-baig&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/faraaz-baig/github-readme-activity-graph"><img alt="Faraaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=faraaz-baig&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
 ## Connect with me:
@@ -58,7 +42,7 @@ I was part of the founding team behind pixa.ai, unscan.ai and more. I don't work
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/faraaz-baig/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=faraaz-baig">
 </a>
 <a href="https://github.com/faraaz-baig?tab=followers"><img src="https://img.shields.io/github/followers/faraaz-baig?label=Followers&style=social" alt="GitHub Badge"></a>
