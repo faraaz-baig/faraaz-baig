@@ -9,6 +9,14 @@ I'm a polymath and a generalist living in Bangalore, IN. I co-founded Airbound (
 I was part of the founding team behind pixa.ai, unscan.ai and more. I don't work on any of those projects anymore. I was CEO for ~4 years, COO for ~2 years. 
 
 <br/>
+<br/>
+
+<a href="https://github.com/faraaz-baig/github-readme-activity-graph"><img alt="Faraaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=faraaz-baig&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+<br/>
 
 <p align="center">
     <a href="https://github.com/faraaz-baig/github-readme-streak-stats">
