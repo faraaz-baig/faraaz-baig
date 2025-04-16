@@ -6,7 +6,7 @@
 
 I'm a polymath and a generalist living in Bangalore, India. I've been building startups since I was 16. I co-founded Airbound (a drone delivery company ) when I was 19 and was backed by investors like Draper and Lightspeed. I'm also a Emergent Venutres Fellow, it's a fellowship backed by thiel and schmidt foundation. 
 
-I was part of the founding team behind unscan.ai and more. I don't work on any of those projects anymore. I currently building Nayra AI - an AI call screener. 
+I was part of the founding team behind unscan.ai and more. I don't work on any of those projects anymore. I currently building Clayo AI - an AI call screener. 
 
 <br/>
 <br/>
